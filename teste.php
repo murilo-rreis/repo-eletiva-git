@@ -4,6 +4,4 @@
     echo "Avanti Palestra!";
 
     echo "Vasco";
-
-    echo "Flamengo";
 ?>
