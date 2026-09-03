@@ -8,4 +8,6 @@
     echo "Flamengo";
 
     echo "Santos";
+
+    echo "Coritiba";
 ?>
